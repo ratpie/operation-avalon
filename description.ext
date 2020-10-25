@@ -1,0 +1,5 @@
+// General information
+author = "{yourname}";
+OnLoadName = "{loadname}";
+OnLoadMission = "{missiondescription}";
+loadScreen = "{loadingimage}";
