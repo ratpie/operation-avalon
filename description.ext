@@ -1,5 +1,5 @@
 // General information
-author = "{yourname}";
-OnLoadName = "{loadname}";
-OnLoadMission = "{missiondescription}";
+author = "Ratpie Bakeries";
+OnLoadName = "Operation Avalon";
+OnLoadMission = "Prologue: Avalon";
 loadScreen = "{loadingimage}";
